@@ -1,3 +1,6 @@
-main: "me.alexpado.pmc.PluginEntry"
-version: "1.0"
 name: "PaperMC-Starter-Plugin"
+version: "1.0"
+description: Example Plugin
+
+main: "me.alexpado.pmc.PluginEntry"
+api-version: 1.18
